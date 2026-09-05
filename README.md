@@ -46,12 +46,11 @@ Designed with a modern responsive layout to provide a consistent experience acro
 
 ## 🛠️ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| HTML5 | Page structure |
-| CSS3 | Styling, layout & visual design |
-| JavaScript | Interactions & dynamic behaviour |
-| Responsive Design | Multi-device experience |
+- **HTML5** — Page structure and semantic markup
+- **CSS3** — Responsive layouts, styling, animations, and visual effects
+- **JavaScript** — Interactive UI and dynamic behavior
+- **Responsive Design** — Optimized for desktop and mobile experiences
+- **GitHub Pages** — Deployment and hosting
 
 ---
 
