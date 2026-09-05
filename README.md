@@ -18,6 +18,11 @@ The design combines:
 - 🛒 E-commerce-inspired interactions
 - 🧩 Modular content sections
 
+## 🌐 Live Demo
+
+👉 **[View Live Website](https://amaaninamdar.github.io/strip-landing-page/)**
+
+> Explore the fully interactive landing page directly in your browser. No download or setup required.
 ---
 
 ## ✨ Key Features
